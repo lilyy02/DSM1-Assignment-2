@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 473.35 625.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fffbed;
+      }
+
+      .cls-2 {
+        fill: #00759f;
+      }
+
+      .cls-3 {
+        fill: #5761be;
+      }
+
+      .cls-4 {
+        fill: #009e81;
+      }
+
+      .cls-5 {
+        fill: #ffb26c;
+      }
+    </style>
+  </defs>
+  <g id="Photo">
+    <rect id="Border" class="cls-1" width="473.35" height="625.9"/>
+    <polyline id="Sky" class="cls-3" points="41.7 336.7 41.7 40 431.64 40 431.64 381.79"/>
+    <circle id="Sun" class="cls-5" cx="330.73" cy="229.41" r="60.59"/>
+    <path id="Hill2" class="cls-2" d="m325.11,279.18c25.64-11.02,40.53-20,56.88-18.03,18.06,2.18,35.54,15.93,49.65,21.67v98.95"/>
+    <path id="Hill1" class="cls-4" d="m380.45,324.13c13.85,14.58,39.72,39.77,51.2,57.66v48.16H41.7v-93.24c31.73-26.83,97.96-84.77,154.53-100.23,78.37-21.41,117.18,17.11,184.21,87.66Z"/>
+  </g>
+</svg>
